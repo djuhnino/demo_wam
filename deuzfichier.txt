@@ -1,0 +1,2 @@
+Commande ECHO activ‚e.
+je viens de creer un deuzieme fichier et j'y ecris des trucs
